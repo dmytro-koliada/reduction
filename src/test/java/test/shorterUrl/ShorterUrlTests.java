@@ -1,0 +1,13 @@
+package test.shorterUrl;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ShorterUrlTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
